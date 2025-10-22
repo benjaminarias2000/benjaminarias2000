@@ -37,8 +37,8 @@ I enjoy developing and leading projects and researches to discover new things th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" />
   <img src="https://img.icons8.com/?size=512&id=62397&format=png" width="40" height="40" alt="SolidWorks" />
-  <img src="https://www.bitpiloten.de/media/28/27/c7/1580133207/MS-OFFICE-LOGO.png" width="40" height="40" alt="MSOffice" />
-  <img src="https://www.tradiewebguys.com.au/wp-content/uploads/2024/08/Google-Workspace.webp" width="40" height="40" alt="Google_workspace" />
+  <img src="https://www.bitpiloten.de/media/28/27/c7/1580133207/MS-OFFICE-LOGO.png"  height="40" alt="MSOffice" />
+  <img src="https://skyseodigital.com/wp-content/uploads/2024/08/google-workspace-logo.png" width="40" height="40" alt="Google_workspace" />
 
 </p>
 
