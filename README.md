@@ -36,7 +36,7 @@ I enjoy developing and leading projects and researches to discover new things th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" width="40" height="40" alt="Julia" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidworks/solidworks-original.svg" width="40" height="40" alt="SolidWorks" />
+  <img src="https://img.icons8.com/?size=512&id=62397&format=png" width="40" height="40" alt="SolidWorks" />
 </p>
 
 ---
