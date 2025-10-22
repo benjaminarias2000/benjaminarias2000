@@ -1,6 +1,6 @@
 # 🙌 Hi everyone! I'm Benjamin Arias
 
-🎓 I’m a **Mechanical Engineering student** in UNR (Rosario National University) from Rosario, Argentina. I am passionate about **material science**, **automation** and **computational mechanics**. 
+🎓 I’m a **Mechanical Engineering student** in UNR (Rosario National University) from Rosario, Argentina <img src="https://upload.wikimedia.org/wikipedia/commons/1/1a/Flag_of_Argentina.svg" width="25"/>. I am passionate about **material science**, **automation** and **computational mechanics**. 
 I enjoy developing and leading projects and researches to discover new things that can help not only in industrial, but also in educational environments.
 
 ---
@@ -52,8 +52,8 @@ I enjoy developing and leading projects and researches to discover new things th
 ---
 
 ## 📫 Contact
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)  
-- 📧 [Email](mailto:youremail@example.com)  
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/benjam%C3%ADn-arias-796747304/))  
+- 📧 [Email](mailto:ariasbenjamin2000@gmail.com)  
 
 ---
 
