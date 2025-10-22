@@ -37,7 +37,7 @@ I enjoy developing and leading projects and researches to discover new things th
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="Python" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" width="40" height="40" alt="MATLAB" />
   <img src="https://img.icons8.com/?size=512&id=62397&format=png" width="40" height="40" alt="SolidWorks" />
-  <img src="https://commons.wikimedia.org/wiki/File:Microsoft_Office_logo_%282013%E2%80%932019%29.svg" width="40" height="40" alt="MSOffice" />
+  <img src="https://www.cleanpng.com/png-microsoft-office-365-office-suite-computer-icons-2523814/" width="40" height="40" alt="MSOffice" />
   <img src="https://www.tradiewebguys.com.au/google-workspace-for-tradies/" width="40" height="40" alt="Google_workspace" />
 
 </p>
