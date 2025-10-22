@@ -52,7 +52,7 @@ I enjoy developing and leading projects and researches to discover new things th
 ---
 
 ## 📫 Contact
-- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/benjam%C3%ADn-arias-796747304/))  
+- 💼 [LinkedIn](https://www.linkedin.com/in/benjam%C3%ADn-arias-796747304/)  
 - 📧 [Email](mailto:ariasbenjamin2000@gmail.com)  
 
 ---
