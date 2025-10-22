@@ -45,9 +45,9 @@ I enjoy developing and leading projects and researches to discover new things th
 ---
 
 ## 🌍 Languages
-- Spanish (native)  
-- English (Advanced - C1)  
-- German (Intermediate - B1/B2)  
+- <img src="https://upload.wikimedia.org/wikipedia/en/9/9a/Flag_of_Spain.svg" width="25"/> Spanish (native) 
+- <img src="https://upload.wikimedia.org/wikipedia/en/a/ae/Flag_of_the_United_Kingdom.svg" width="25"/> English (Advanced - C1)   
+- <img src="https://upload.wikimedia.org/wikipedia/en/b/ba/Flag_of_Germany.svg" width="25"/> German (Intermediate - B1/B2)  
 
 ---
 
