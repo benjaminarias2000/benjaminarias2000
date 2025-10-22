@@ -16,7 +16,7 @@ I enjoy developing and leading projects and researches to discover new things th
 
 ## 🚀 Currently working on
 - 🔬 **Visual Glossary of Microstructures**, with analysis and applications in Mechanical Components for engineering students. [ON HOLD]
-- 🔬 **Microstructure analysis** using artificial intelligence. [MASTER THESIS]
+- 🔬 **Microstructure analysis** using artificial intelligence with Python. [MASTER THESIS]
 
 ---
 
